@@ -34,7 +34,6 @@ Here are some ideas to get you started:
  [![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.telegram.me/devia_angel/)
 </div>
  
- 
 <div align="center">
   <img align="justify" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
   <img src="https://github-profile-trophy.vercel.app/?username=Angel-noori&column=-1&theme=dracula" alt="Angel-noori's GitHub trophy">
