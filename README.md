@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 
 <hr>
 
+[//]: https://github-readme-stats.vercel.app/api?username=Angel-noori&count_private=true&show_icons=true&theme=radical&custom_title=🧶%20Angel%20is%20vibrating
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Angel-noori&count_private=true&show_icons=true&theme=radical&custom_title=🧶%20Angel%20is%20vibrating" alt="Angel-noori's GitHub Stats">
+
 - 🐍 Python: junior
 - 🦈 Docker: junior
 - 📦 JavaScript: junior
