@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviperadnan-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=:)&edge_flat=true" height="28">
 
-<p align="center"> <a href="https://github.com/FilmyFather"><img src="https://komarev.com/ghpvc/?username=FilmyFather &label=Profile%20views&color=ff00e8&style=flat" alt="FilmyFather" /></a> </p>
+<p align="center"> <a href="https://github.com/FilmyFather"><img src="https://komarev.com/ghpvc/username=FilmyFather&label=Profile%20views&color=ff00e8&style=flat" alt="FilmyFather" /></a> </p>
 
 <div align="center">
 
