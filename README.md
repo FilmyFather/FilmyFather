@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviperadnan-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=:)&edge_flat=true" height="28">
 
-<p align="center"> <a href="https://github.com/FilmyFather"><img src="https://komarev.com/ghpvc/username=FilmyFather&label=Profile%20views&color=ff00e8&style=flat" alt="FilmyFather" /></a> </p>
+<p align="center"> <a href="https://github.com/FilmyFather"><img src="https://komarev.com/ghpvc/?username=your-github-FilmyFather&color=blueviolet" alt="FilmyFather" /></a> </p>
 
 <div align="center">
 
  [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_xx_itz_yuvi_xx_/)
- [![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.telegram.me/devia_angel/)
+ [![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.telegram.me/Yuvi_4502/)
 </div>
  
 <div align="center">
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Angel-noori&show_icons=true&theme=chartreuse-dark&custom_title=🧶%20Angel%20is%20vibrating" alt="Angel-noori's GitHub Stats">
 
-- 🐍 Python: junior
-- 🦈 Docker: junior
-- 📦 JavaScript: junior
-- 👀 C/C++: junior
-- 🎨 Graphic design: junior
-- 🖼️ Image manipulation: junior
-- 📷 Photography: junior
-- 🎬 Non-linear editing: junior
+- 🐍 Python: Noob
+- 🦈 Docker: Noob
+- 📦 JavaScript: Noob
+- 👀 C/C++: Noob
+- 🎨 Graphic design: Noob
+- 🖼️ Image manipulation: Noob
+- 📷 Photography: Noob
+- 🎬 Non-linear editing: Noob
 - 📱 GUI: little touch
 - 🍥 OS: Jelly test
-- 💭 Pronouns: she/her
-- 💬 Telegram: [@devia_angel](https://t.me/devia_angel)
+- 💭 Pronouns: He/his
+- 💬 Telegram: [@Yuvi_4502](https://t.me/Yuvi_4502)
 - 📣 Lang: `urdu`, `en`, `hindi`
 
  
