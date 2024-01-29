@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 - 🍥 OS: Jelly test
 - 💭 Pronouns: He/his
 - 💬 Telegram: [@Yuvi_4502](https://t.me/Yuvi_4502)
-- 📣 Lang: `urdu`, `en`, `hindi`
+- 📣 Lang: `Hindi`, `English`, `Marwadi`, `Marathi` , `Bhojpuri`, `Gujrati`
 
  
