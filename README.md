@@ -34,16 +34,17 @@ Here are some ideas to get you started:
  [![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.telegram.me/Yuvi_4502/)
 </div>
  
-<div align="center">
-  <img align="justify" width="200" src="[https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png](https://graph.org/file/c831bd847d6822ca2784e.png)">
-  <img src="https://github-profile-trophy.vercel.app/?username=FilmyFather&column=-1&theme=dracula" alt="Angel-noori's GitHub trophy">
+ <div align="center">
+    <img align="justify" width="813" src="
+[https://graph.org/file/c831bd847d6822ca2784e.png](https://graph.org/file/c831bd847d6822ca2784e.png)">
+  <img src="https://github-profile-trophy.vercel.app/?username=FilmyFather&column=-1&theme=dracula" alt="FilmyFather's GitHub trophy">
 </div>
 
 <hr>
 
-[//]: https://github-readme-stats.vercel.app/api?username=Angel-noori&show_icons=true&theme=chartreuse-dark&custom_title=🧶%20Angel%20is%20vibrating
+[//]: https://github-readme-stats.vercel.app/api?username=FilmyFather&show_icons=true&theme=chartreuse-dark&custom_title=🧶%20FilmyFather%20is%20vibrating
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Angel-noori&show_icons=true&theme=chartreuse-dark&custom_title=🧶%20Angel%20is%20vibrating" alt="Angel-noori's GitHub Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FilmyFather&show_icons=true&theme=chartreuse-dark&custom_title=🧶%20FilmyFather%20is%20vibrating" alt="FilmyFather's GitHub Stats">
 
 - 🐍 Python: Noob
 - 🦈 Docker: Noob
