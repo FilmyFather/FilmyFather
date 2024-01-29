@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+FilmyFather+%F0%9F%91%8B%F0%9F%8F%BB;I+am+an+Telegram+Explorer+Boii+%F0%9F%A6%8B%F0%9F%91%A9;I+am+from+Bharat+%F0%9F%8C%99;I+am+a+little+Bad+Boii+developer+%F0%9F%90%9D;Please+Support+Me+and+Follow+%F0%9F%92%99" alt="FilmyFather" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+FilmyFather+%F0%9F%91%8B%F0%9F%8F%BB;I+am+an+Telegram+Explorer+Boii+%F0%9F%A6%8B%F0%9F%91%A9;I+am+from+Bharat+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+little+Bad+Boii+developer+%F0%9F%90%9D;Please+Support+Me+and+Follow+%F0%9F%92%99" alt="FilmyFather" width="650" height="55">
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
