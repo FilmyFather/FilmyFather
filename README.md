@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 </div>
  
 <div align="center">
-  <img align="justify" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel-noori&column=-1&theme=dracula" alt="Angel-noori's GitHub trophy">
+  <img align="justify" width="200" src="[https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png](https://graph.org/file/c831bd847d6822ca2784e.png)">
+  <img src="https://github-profile-trophy.vercel.app/?username=FilmyFather&column=-1&theme=dracula" alt="Angel-noori's GitHub trophy">
 </div>
 
 <hr>
